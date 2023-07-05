@@ -1,4 +1,7 @@
 # widget-app
+NAMA : SANIKO ARPRAYOGI
+NPM : 213510555
+UAS PRAKTIKUM PBK
 
 ## Project setup
 ```
